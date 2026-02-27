@@ -1,0 +1,1001 @@
+StudentID,Score,Date,Description,Ethnicity,Subject,Hobby,Interest,Age,Grade
+1,46,02:11:2025,Assam,Rajput,Zoology,Reading,Esports,19,D
+2,50,28:10:2025,Bangluru,Odia,Chemistry,Shooting,Painting,17,F
+3,80,08:11:2025,Gujrat,Maratha,Physics,Talking,Comedy,19,D
+4,85,28:10:2025,Noida,Kayasth,French,Shooting,Painting,17,B
+5,73,01:11:2025,Delhi,Kayasth,Economics,Talking,MotoRacing,16,D
+6,30,30:10:2025,Shillong,Bhramin,Zoology,Reading,Comedy,18,C
+7,51,04:11:2025,Bangluru,Kayasth,French,Reading,Painting,18,D
+8,33,05:11:2025,Gujrat,Kashmiri,Chemistry,Cycling,Watching TV,16,A
+9,90,04:11:2025,Goa,Rajput,Economics,Swimming,Painting,16,A
+10,76,04:11:2025,Noida,Sikh,Zoology,Sleeping,Football,19,A
+11,70,01:11:2025,Kerala,Bhramin,Social Science,Biking,Football,19,B
+12,60,30:10:2025,Delhi,Odia,Python,Sleeping,Sketching,19,F
+13,90,13:11:2025,Noida,Sikh,Economics,Biking,MotoRacing,16,D
+14,38,01:11:2025,Noida,Kashmiri,Chemistry,Teaching,Esports,19,B
+15,79,05:11:2025,Delhi,Rajput,Python,Gaming,MotoRacing,17,B
+16,53,02:11:2025,Assam,Adiwasi,Python,Sleeping,Painting,19,B
+17,67,06:11:2025,Assam,Kayasth,Chemistry,Shooting,Sketching,16,B
+18,96,26:10:2025,Gujrat,Kayasth,Hindi,Shooting,Comedy,17,C
+19,76,08:11:2025,Shillong,Bhramin,Maths,Teaching,Football,19,D
+20,80,12:11:2025,Bangluru,Sikh,English,Reading,Football,19,F
+21,97,06:11:2025,Shillong,Kayasth,Maths,Cricket,Football,17,C
+22,75,01:11:2025,Kerala,Kashmiri,Zoology,Talking,Music,17,F
+23,76,10:11:2025,Kerala,Sikh,Python,Cricket,Music,16,F
+24,90,30:10:2025,Kerala,Odia,French,Reading,Music,16,A
+25,75,01:11:2025,Kolkata,Sikh,Maths,Teaching,Cooking,18,F
+26,44,12:11:2025,Kerala,Kayasth,Maths,Reading,Comedy,18,C
+27,39,29:10:2025,Kolkata,Rajput,Chemistry,Talking,Football,16,C
+28,96,14:11:2025,Noida,Bhramin,Maths,Sleeping,Esports,19,F
+29,62,28:10:2025,Varansi,Adiwasi,Python,Swimming,Sketching,17,F
+30,87,26:10:2025,Kerala,Maratha,English,Reading,Esports,16,A
+31,45,10:11:2025,Shillong,Odia,Python,Gaming,MotoRacing,18,C
+32,67,12:11:2025,Varansi,Odia,Chemistry,Cycling,Esports,19,C
+33,74,28:10:2025,Shillong,Kashmiri,French,Teaching,MotoRacing,17,C
+34,78,11:11:2025,Shillong,Adiwasi,Hindi,Cycling,Football,16,B
+35,53,26:10:2025,Bangluru,Kayasth,Social Science,Cycling,Cars,18,F
+36,54,12:11:2025,Delhi,Maratha,Physics,Sleeping,Esports,16,F
+37,52,12:11:2025,Assam,Bhramin,Social Science,Shooting,Painting,18,C
+38,50,01:11:2025,Varansi,Kayasth,French,Swimming,Cooking,16,A
+39,66,12:11:2025,Shillong,Rajput,Maths,Shooting,Football,18,C
+40,38,06:11:2025,Shillong,Sikh,Hindi,Teaching,Cars,16,A
+41,54,14:11:2025,Gujrat,Kashmiri,Python,Reading,Sketching,19,B
+42,72,29:10:2025,Shillong,Sikh,Hindi,Swimming,Painting,16,D
+43,46,05:11:2025,Kolkata,Kashmiri,Zoology,Reading,Watching TV,16,F
+44,71,03:11:2025,Kerala,Rajput,Maths,Shooting,Cooking,18,D
+45,32,06:11:2025,Delhi,Bhramin,English,Reading,Cars,18,C
+46,40,10:11:2025,Delhi,Adiwasi,French,Cycling,Cars,17,B
+47,70,01:11:2025,Delhi,Adiwasi,Social Science,Reading,Esports,19,B
+48,44,27:10:2025,Shillong,Kashmiri,Zoology,Cricket,Cars,19,F
+49,93,29:10:2025,Gujrat,Odia,Social Science,Shooting,Cars,16,D
+50,88,08:11:2025,Varansi,Rajput,Python,Talking,Cars,19,C
+51,97,27:10:2025,Noida,Maratha,Maths,Reading,Comedy,18,A
+52,33,03:11:2025,Kerala,Kashmiri,Economics,Cycling,Music,17,A
+53,68,28:10:2025,Delhi,Maratha,Social Science,Biking,Football,19,B
+54,35,27:10:2025,Delhi,Sikh,Maths,Gaming,Cars,18,B
+55,61,12:11:2025,Varansi,Kashmiri,Zoology,Biking,Cooking,18,C
+56,84,30:10:2025,Assam,Kashmiri,Maths,Swimming,Sketching,18,C
+57,90,13:11:2025,Varansi,Bhramin,Chemistry,Reading,MotoRacing,19,B
+58,64,30:10:2025,Gujrat,Sikh,Hindi,Shooting,Painting,16,C
+59,59,28:10:2025,Gujrat,Kayasth,Python,Sleeping,Cooking,16,F
+60,31,29:10:2025,Noida,Odia,Maths,Biking,Music,16,B
+61,52,07:11:2025,Gujrat,Kashmiri,Zoology,Biking,Music,16,D
+62,63,01:11:2025,Assam,Rajput,Physics,Cricket,MotoRacing,16,F
+63,63,26:10:2025,Delhi,Kayasth,Hindi,Biking,Sketching,18,A
+64,34,05:11:2025,Gujrat,Adiwasi,Hindi,Cricket,Comedy,19,F
+65,31,30:10:2025,Varansi,Adiwasi,Physics,Gaming,Esports,18,B
+66,81,14:11:2025,Bangluru,Bhramin,Zoology,Cycling,Comedy,17,A
+67,39,31:10:2025,Kolkata,Kayasth,Chemistry,Swimming,Sketching,17,D
+68,32,06:11:2025,Delhi,Sikh,Chemistry,Biking,Sketching,18,C
+69,65,14:11:2025,Gujrat,Rajput,Economics,Sleeping,Comedy,18,C
+70,33,12:11:2025,Goa,Sikh,Chemistry,Cricket,Comedy,17,D
+71,45,09:11:2025,Kerala,Kayasth,Hindi,Biking,Comedy,17,D
+72,34,08:11:2025,Delhi,Sikh,Chemistry,Biking,Cooking,17,D
+73,98,09:11:2025,Shillong,Rajput,Python,Sleeping,Football,19,F
+74,59,12:11:2025,Goa,Kayasth,Economics,Shooting,Comedy,19,B
+75,32,03:11:2025,Delhi,Kashmiri,Physics,Talking,Watching TV,19,D
+76,96,05:11:2025,Goa,Kashmiri,Maths,Cricket,Esports,19,B
+77,64,28:10:2025,Kolkata,Kashmiri,Economics,Cycling,Comedy,16,D
+78,70,10:11:2025,Varansi,Sikh,Hindi,Shooting,Football,18,D
+79,71,30:10:2025,Delhi,Sikh,Python,Cricket,Sketching,19,C
+80,62,06:11:2025,Kolkata,Kashmiri,French,Cricket,Comedy,16,C
+81,47,08:11:2025,Kolkata,Kashmiri,Economics,Reading,MotoRacing,18,D
+82,69,11:11:2025,Assam,Adiwasi,English,Cycling,Watching TV,16,A
+83,63,28:10:2025,Bangluru,Rajput,Economics,Sleeping,Football,19,C
+84,42,12:11:2025,Bangluru,Rajput,Maths,Talking,Sketching,17,F
+85,45,01:11:2025,Delhi,Rajput,Economics,Gaming,Esports,17,F
+86,71,10:11:2025,Assam,Adiwasi,Maths,Sleeping,Painting,16,B
+87,82,03:11:2025,Shillong,Rajput,Physics,Biking,Cooking,16,C
+88,44,31:10:2025,Delhi,Sikh,Python,Teaching,Esports,18,F
+89,89,27:10:2025,Assam,Odia,Economics,Cycling,Cars,16,C
+90,49,04:11:2025,Assam,Kashmiri,Physics,Cycling,Football,19,F
+91,39,08:11:2025,Gujrat,Sikh,Zoology,Gaming,Esports,18,C
+92,42,29:10:2025,Assam,Bhramin,French,Reading,Painting,17,C
+93,48,09:11:2025,Kolkata,Adiwasi,Python,Cricket,Watching TV,16,A
+94,68,10:11:2025,Delhi,Maratha,Maths,Swimming,Esports,16,A
+95,53,13:11:2025,Gujrat,Sikh,Chemistry,Talking,Cars,16,C
+96,48,08:11:2025,Shillong,Sikh,French,Biking,MotoRacing,17,A
+97,35,27:10:2025,Delhi,Sikh,Physics,Teaching,Esports,19,F
+98,79,05:11:2025,Goa,Rajput,Maths,Cycling,Sketching,16,D
+99,68,14:11:2025,Shillong,Maratha,Physics,Cricket,Comedy,19,C
+100,90,05:11:2025,Gujrat,Sikh,Hindi,Swimming,Music,17,A
+101,33,07:11:2025,Shillong,Adiwasi,Hindi,Cycling,Painting,17,A
+102,67,12:11:2025,Assam,Kashmiri,Economics,Shooting,Sketching,19,C
+103,34,05:11:2025,Varansi,Adiwasi,Maths,Teaching,Esports,18,D
+104,55,03:11:2025,Gujrat,Kayasth,English,Gaming,Painting,16,D
+105,69,28:10:2025,Kerala,Kashmiri,Python,Cricket,Comedy,17,A
+106,50,26:10:2025,Delhi,Maratha,Python,Shooting,Football,18,D
+107,47,06:11:2025,Gujrat,Odia,Economics,Teaching,Comedy,16,A
+108,33,12:11:2025,Bangluru,Rajput,Economics,Cycling,Watching TV,18,A
+109,51,12:11:2025,Shillong,Rajput,Chemistry,Biking,Music,19,A
+110,91,13:11:2025,Shillong,Adiwasi,Economics,Reading,Football,16,C
+111,72,04:11:2025,Assam,Odia,English,Shooting,Watching TV,16,D
+112,83,03:11:2025,Kerala,Maratha,Chemistry,Reading,Comedy,19,A
+113,86,04:11:2025,Noida,Odia,Maths,Sleeping,Sketching,16,B
+114,90,05:11:2025,Goa,Odia,Chemistry,Talking,Cars,19,A
+115,100,04:11:2025,Kerala,Kashmiri,Python,Swimming,Watching TV,17,F
+116,64,10:11:2025,Shillong,Rajput,French,Gaming,Watching TV,18,C
+117,67,07:11:2025,Assam,Kayasth,English,Shooting,Cars,17,B
+118,78,07:11:2025,Assam,Rajput,Physics,Cricket,Cars,16,B
+119,92,31:10:2025,Delhi,Kashmiri,French,Swimming,Football,19,F
+120,86,12:11:2025,Assam,Adiwasi,Chemistry,Cycling,Comedy,18,B
+121,85,10:11:2025,Kerala,Bhramin,English,Teaching,Comedy,18,D
+122,90,02:11:2025,Kolkata,Odia,Physics,Swimming,Cars,18,F
+123,44,06:11:2025,Kolkata,Odia,Economics,Swimming,Comedy,17,C
+124,66,04:11:2025,Varansi,Odia,Maths,Biking,Esports,18,B
+125,89,13:11:2025,Bangluru,Adiwasi,Economics,Cricket,Football,19,A
+126,76,10:11:2025,Assam,Adiwasi,Physics,Sleeping,Watching TV,17,B
+127,34,04:11:2025,Bangluru,Kayasth,English,Cycling,Watching TV,17,C
+128,39,31:10:2025,Delhi,Maratha,English,Shooting,Watching TV,17,C
+129,66,12:11:2025,Goa,Odia,Zoology,Cycling,Painting,17,B
+130,64,07:11:2025,Goa,Kayasth,Python,Sleeping,Sketching,18,F
+131,31,07:11:2025,Assam,Rajput,Python,Talking,Sketching,18,D
+132,46,11:11:2025,Delhi,Adiwasi,Chemistry,Biking,Cars,18,D
+133,59,27:10:2025,Assam,Odia,Python,Biking,Football,19,D
+134,32,26:10:2025,Bangluru,Maratha,Social Science,Cycling,Football,18,D
+135,58,12:11:2025,Noida,Maratha,Economics,Swimming,Watching TV,17,D
+136,100,04:11:2025,Kerala,Kashmiri,English,Swimming,Sketching,18,D
+137,96,06:11:2025,Kerala,Kayasth,French,Swimming,Cooking,16,D
+138,30,14:11:2025,Goa,Sikh,Zoology,Cycling,Sketching,16,B
+139,63,03:11:2025,Gujrat,Rajput,Maths,Swimming,Cooking,19,C
+140,100,31:10:2025,Goa,Maratha,Zoology,Biking,MotoRacing,16,B
+141,60,08:11:2025,Kolkata,Kayasth,Physics,Talking,Painting,18,A
+142,44,01:11:2025,Delhi,Sikh,Social Science,Shooting,Sketching,19,D
+143,54,06:11:2025,Assam,Kayasth,Social Science,Cricket,Painting,19,D
+144,62,12:11:2025,Gujrat,Bhramin,English,Biking,Music,18,F
+145,98,28:10:2025,Shillong,Rajput,French,Reading,Music,19,A
+146,53,29:10:2025,Noida,Rajput,French,Cricket,Cooking,19,F
+147,92,30:10:2025,Shillong,Kayasth,English,Cycling,Painting,18,D
+148,36,07:11:2025,Shillong,Sikh,Economics,Gaming,MotoRacing,19,B
+149,34,04:11:2025,Noida,Odia,Zoology,Sleeping,MotoRacing,17,C
+150,92,07:11:2025,Delhi,Bhramin,Python,Sleeping,Cooking,16,C
+151,32,13:11:2025,Varansi,Maratha,Physics,Shooting,Football,19,D
+152,46,14:11:2025,Bangluru,Bhramin,Social Science,Cricket,MotoRacing,19,D
+153,92,06:11:2025,Kerala,Adiwasi,Chemistry,Cricket,Painting,18,B
+154,54,26:10:2025,Varansi,Kashmiri,Zoology,Biking,Cars,17,A
+155,44,28:10:2025,Kerala,Bhramin,Maths,Cycling,Football,18,C
+156,37,04:11:2025,Delhi,Kashmiri,French,Biking,Comedy,19,A
+157,69,29:10:2025,Assam,Adiwasi,Python,Sleeping,Cooking,16,D
+158,77,27:10:2025,Delhi,Sikh,Zoology,Talking,Cooking,19,F
+159,62,07:11:2025,Noida,Bhramin,Chemistry,Reading,MotoRacing,18,F
+160,37,13:11:2025,Shillong,Odia,Hindi,Cycling,Cooking,18,B
+161,80,07:11:2025,Noida,Odia,Physics,Biking,Painting,19,C
+162,70,26:10:2025,Goa,Adiwasi,Hindi,Talking,Football,19,C
+163,34,13:11:2025,Kerala,Rajput,Physics,Gaming,MotoRacing,16,C
+164,70,27:10:2025,Goa,Kashmiri,Economics,Swimming,Sketching,18,B
+165,44,07:11:2025,Gujrat,Kayasth,Maths,Shooting,Comedy,17,F
+166,39,30:10:2025,Shillong,Rajput,Maths,Cycling,Cooking,18,B
+167,46,29:10:2025,Noida,Sikh,Python,Talking,Sketching,17,C
+168,67,29:10:2025,Noida,Kashmiri,Physics,Swimming,Cooking,19,A
+169,40,04:11:2025,Delhi,Odia,French,Swimming,Cars,19,A
+170,88,07:11:2025,Goa,Odia,Hindi,Cycling,MotoRacing,16,F
+171,99,11:11:2025,Goa,Sikh,Hindi,Sleeping,Cars,19,C
+172,72,14:11:2025,Gujrat,Kashmiri,Social Science,Cycling,Watching TV,18,C
+173,95,29:10:2025,Varansi,Kayasth,Maths,Cycling,Music,19,C
+174,40,29:10:2025,Varansi,Rajput,Economics,Swimming,Esports,19,F
+175,41,27:10:2025,Delhi,Maratha,Maths,Gaming,Comedy,17,A
+176,58,30:10:2025,Assam,Rajput,Zoology,Teaching,Sketching,17,F
+177,63,29:10:2025,Delhi,Maratha,Economics,Gaming,MotoRacing,17,F
+178,76,02:11:2025,Delhi,Rajput,Zoology,Cycling,Painting,17,C
+179,98,02:11:2025,Assam,Bhramin,French,Shooting,Football,17,F
+180,82,28:10:2025,Kerala,Kashmiri,English,Cycling,Cars,16,A
+181,75,06:11:2025,Shillong,Rajput,French,Reading,Esports,16,A
+182,96,30:10:2025,Assam,Kayasth,Social Science,Teaching,Comedy,19,C
+183,81,13:11:2025,Bangluru,Bhramin,Maths,Cycling,Esports,16,D
+184,92,11:11:2025,Gujrat,Adiwasi,Chemistry,Swimming,Cooking,19,B
+185,31,27:10:2025,Varansi,Sikh,French,Biking,Cooking,16,A
+186,34,27:10:2025,Bangluru,Odia,Maths,Talking,Painting,18,B
+187,30,14:11:2025,Goa,Odia,Economics,Talking,Cars,16,A
+188,43,08:11:2025,Kerala,Adiwasi,French,Cricket,MotoRacing,18,C
+189,57,06:11:2025,Varansi,Kashmiri,Zoology,Reading,Cooking,19,F
+190,49,13:11:2025,Delhi,Rajput,Hindi,Biking,Comedy,16,B
+191,63,03:11:2025,Delhi,Maratha,Physics,Teaching,Comedy,17,C
+192,91,28:10:2025,Delhi,Adiwasi,Social Science,Swimming,Sketching,16,C
+193,62,08:11:2025,Noida,Rajput,Physics,Gaming,Music,16,B
+194,79,11:11:2025,Varansi,Sikh,English,Reading,Sketching,19,D
+195,60,02:11:2025,Bangluru,Kashmiri,French,Biking,Cooking,18,C
+196,72,29:10:2025,Goa,Sikh,Chemistry,Biking,Painting,16,D
+197,39,13:11:2025,Noida,Odia,Python,Talking,Music,19,A
+198,72,02:11:2025,Delhi,Maratha,Zoology,Cricket,Cars,16,F
+199,52,27:10:2025,Delhi,Bhramin,Social Science,Reading,Cars,19,C
+200,31,03:11:2025,Bangluru,Kayasth,French,Shooting,Painting,17,A
+201,72,10:11:2025,Assam,Sikh,Chemistry,Sleeping,Football,17,C
+202,31,28:10:2025,Assam,Maratha,Economics,Talking,Cooking,18,F
+203,41,31:10:2025,Shillong,Sikh,Physics,Cricket,Music,16,D
+204,85,13:11:2025,Varansi,Kayasth,Python,Gaming,Painting,17,C
+205,78,05:11:2025,Noida,Sikh,Python,Sleeping,Cooking,17,F
+206,94,27:10:2025,Varansi,Kayasth,Python,Sleeping,MotoRacing,19,B
+207,83,01:11:2025,Assam,Rajput,Social Science,Biking,Painting,16,A
+208,85,01:11:2025,Shillong,Bhramin,Social Science,Reading,Esports,17,D
+209,32,10:11:2025,Shillong,Sikh,Maths,Sleeping,Music,17,C
+210,73,07:11:2025,Noida,Kashmiri,Maths,Cricket,Football,19,F
+211,85,12:11:2025,Shillong,Bhramin,Social Science,Gaming,Esports,19,A
+212,71,02:11:2025,Goa,Rajput,Chemistry,Biking,Painting,19,F
+213,61,09:11:2025,Assam,Odia,French,Swimming,Cars,17,B
+214,53,08:11:2025,Varansi,Maratha,Economics,Teaching,Music,18,A
+215,73,01:11:2025,Assam,Adiwasi,Social Science,Gaming,Football,16,D
+216,94,26:10:2025,Varansi,Sikh,Chemistry,Biking,Comedy,19,A
+217,50,04:11:2025,Noida,Rajput,Python,Teaching,Cooking,16,F
+218,75,07:11:2025,Gujrat,Odia,Python,Shooting,Watching TV,17,F
+219,76,04:11:2025,Varansi,Adiwasi,English,Gaming,Music,16,B
+220,70,12:11:2025,Varansi,Odia,French,Sleeping,Comedy,18,A
+221,32,06:11:2025,Delhi,Maratha,Physics,Talking,Comedy,18,F
+222,34,07:11:2025,Assam,Kayasth,Chemistry,Biking,Football,17,C
+223,57,06:11:2025,Bangluru,Bhramin,Economics,Teaching,Watching TV,16,A
+224,70,10:11:2025,Kerala,Kayasth,English,Biking,Football,19,C
+225,42,27:10:2025,Kolkata,Bhramin,Zoology,Talking,Esports,17,C
+226,59,09:11:2025,Kolkata,Kashmiri,Chemistry,Swimming,Music,19,F
+227,47,04:11:2025,Shillong,Adiwasi,Social Science,Reading,Cooking,16,A
+228,42,11:11:2025,Bangluru,Odia,Social Science,Teaching,Sketching,18,D
+229,80,30:10:2025,Delhi,Adiwasi,Python,Talking,Comedy,17,F
+230,37,01:11:2025,Gujrat,Kashmiri,Economics,Teaching,Sketching,18,F
+231,87,26:10:2025,Assam,Bhramin,Maths,Sleeping,Sketching,19,F
+232,71,30:10:2025,Kerala,Kayasth,Economics,Cricket,Cooking,17,C
+233,44,01:11:2025,Varansi,Maratha,French,Cycling,MotoRacing,18,C
+234,54,27:10:2025,Goa,Bhramin,Chemistry,Swimming,Football,17,A
+235,51,06:11:2025,Delhi,Adiwasi,Economics,Gaming,Esports,19,C
+236,94,07:11:2025,Assam,Kayasth,French,Cricket,Music,19,F
+237,48,01:11:2025,Kerala,Odia,English,Biking,Music,17,B
+238,54,08:11:2025,Goa,Bhramin,Hindi,Reading,Painting,18,A
+239,38,28:10:2025,Shillong,Odia,Python,Cricket,Esports,16,F
+240,46,01:11:2025,Bangluru,Kayasth,Chemistry,Swimming,Painting,18,D
+241,72,12:11:2025,Kolkata,Kayasth,French,Reading,Cars,19,C
+242,66,10:11:2025,Delhi,Rajput,Economics,Teaching,Cooking,19,A
+243,33,26:10:2025,Assam,Bhramin,Python,Swimming,Music,19,A
+244,83,27:10:2025,Goa,Odia,English,Cycling,Esports,19,D
+245,44,14:11:2025,Bangluru,Sikh,Zoology,Reading,Watching TV,17,A
+246,75,31:10:2025,Goa,Bhramin,Zoology,Reading,Esports,19,A
+247,97,01:11:2025,Delhi,Kayasth,Hindi,Teaching,Watching TV,19,F
+248,96,01:11:2025,Assam,Maratha,English,Swimming,Football,17,D
+249,65,02:11:2025,Bangluru,Maratha,English,Biking,Esports,17,F
+250,46,28:10:2025,Bangluru,Sikh,Chemistry,Cycling,MotoRacing,19,B
+251,98,01:11:2025,Kolkata,Sikh,Social Science,Swimming,Sketching,19,A
+252,98,28:10:2025,Gujrat,Kashmiri,Python,Teaching,Cars,17,F
+253,91,30:10:2025,Delhi,Kashmiri,Physics,Shooting,Cars,17,A
+254,82,09:11:2025,Kerala,Kashmiri,Python,Cricket,Watching TV,19,D
+255,35,13:11:2025,Gujrat,Adiwasi,Maths,Talking,Painting,18,F
+256,47,07:11:2025,Goa,Kashmiri,Economics,Gaming,Sketching,16,A
+257,86,02:11:2025,Varansi,Rajput,Python,Swimming,Football,18,B
+258,71,31:10:2025,Bangluru,Bhramin,Economics,Teaching,MotoRacing,18,A
+259,55,30:10:2025,Delhi,Maratha,Hindi,Talking,Comedy,19,D
+260,63,03:11:2025,Kerala,Sikh,French,Swimming,Sketching,19,D
+261,97,31:10:2025,Noida,Rajput,Chemistry,Talking,Cars,18,F
+262,66,06:11:2025,Goa,Rajput,Python,Teaching,Sketching,18,B
+263,75,11:11:2025,Goa,Kashmiri,Hindi,Reading,Watching TV,19,D
+264,57,03:11:2025,Noida,Kayasth,Maths,Sleeping,Cars,18,C
+265,59,10:11:2025,Assam,Kashmiri,French,Teaching,Cooking,18,D
+266,59,06:11:2025,Assam,Sikh,Physics,Talking,Cooking,16,F
+267,66,30:10:2025,Varansi,Kashmiri,Hindi,Cycling,MotoRacing,16,B
+268,73,30:10:2025,Goa,Kashmiri,Economics,Reading,Comedy,16,A
+269,63,26:10:2025,Kolkata,Kashmiri,Maths,Teaching,MotoRacing,16,F
+270,51,28:10:2025,Noida,Sikh,Social Science,Biking,Watching TV,17,B
+271,40,07:11:2025,Kolkata,Kayasth,Hindi,Cycling,Cars,18,F
+272,82,12:11:2025,Noida,Odia,Social Science,Reading,Comedy,18,A
+273,66,14:11:2025,Goa,Kashmiri,English,Swimming,Painting,17,A
+274,73,28:10:2025,Noida,Adiwasi,Economics,Sleeping,Comedy,18,B
+275,62,01:11:2025,Assam,Rajput,Python,Cricket,Painting,17,B
+276,94,07:11:2025,Delhi,Odia,English,Talking,Music,17,D
+277,76,28:10:2025,Noida,Odia,Hindi,Cycling,Cars,19,A
+278,71,11:11:2025,Shillong,Adiwasi,Zoology,Reading,Watching TV,17,D
+279,49,02:11:2025,Noida,Sikh,Chemistry,Sleeping,Watching TV,18,D
+280,39,10:11:2025,Kerala,Rajput,Maths,Teaching,Painting,19,A
+281,58,12:11:2025,Assam,Maratha,Economics,Reading,Cooking,16,F
+282,36,28:10:2025,Bangluru,Kayasth,Zoology,Swimming,Esports,19,A
+283,62,27:10:2025,Kolkata,Kashmiri,Python,Reading,MotoRacing,18,A
+284,42,31:10:2025,Noida,Sikh,Economics,Shooting,Painting,19,B
+285,55,08:11:2025,Kerala,Odia,Maths,Teaching,Esports,18,C
+286,85,26:10:2025,Bangluru,Sikh,Social Science,Swimming,Cars,16,B
+287,72,03:11:2025,Kerala,Adiwasi,Chemistry,Talking,Comedy,19,F
+288,70,10:11:2025,Shillong,Rajput,French,Gaming,Painting,19,A
+289,35,10:11:2025,Kerala,Odia,Zoology,Shooting,Music,18,F
+290,46,04:11:2025,Shillong,Rajput,Zoology,Cycling,MotoRacing,16,A
+291,36,14:11:2025,Kolkata,Sikh,Physics,Shooting,Football,16,A
+292,89,04:11:2025,Varansi,Kashmiri,English,Cycling,Sketching,18,C
+293,81,04:11:2025,Shillong,Kashmiri,Social Science,Sleeping,Sketching,18,A
+294,54,02:11:2025,Shillong,Bhramin,Hindi,Cricket,Comedy,17,B
+295,99,26:10:2025,Kerala,Adiwasi,Economics,Shooting,Sketching,17,F
+296,73,04:11:2025,Goa,Maratha,Python,Sleeping,Cooking,19,A
+297,77,13:11:2025,Noida,Kashmiri,Maths,Cycling,MotoRacing,17,A
+298,67,02:11:2025,Assam,Kashmiri,Python,Cycling,Sketching,18,F
+299,42,05:11:2025,Bangluru,Rajput,Economics,Cycling,Cars,18,C
+300,47,09:11:2025,Kerala,Odia,English,Gaming,Cooking,18,F
+301,63,06:11:2025,Gujrat,Bhramin,Zoology,Sleeping,Cooking,18,C
+302,89,07:11:2025,Varansi,Sikh,Hindi,Teaching,Music,19,A
+303,43,03:11:2025,Kolkata,Rajput,Python,Swimming,Comedy,17,B
+304,67,13:11:2025,Noida,Odia,Zoology,Gaming,MotoRacing,18,D
+305,31,05:11:2025,Kolkata,Kayasth,Python,Cricket,Watching TV,16,F
+306,87,06:11:2025,Bangluru,Kashmiri,Physics,Gaming,Football,19,A
+307,32,05:11:2025,Kolkata,Adiwasi,Chemistry,Sleeping,Painting,16,C
+308,84,05:11:2025,Gujrat,Maratha,English,Cricket,Sketching,16,B
+309,94,14:11:2025,Bangluru,Bhramin,Economics,Biking,Painting,16,B
+310,64,30:10:2025,Gujrat,Bhramin,Chemistry,Shooting,Comedy,19,D
+311,83,05:11:2025,Kerala,Kashmiri,English,Sleeping,Cars,16,C
+312,40,14:11:2025,Goa,Odia,Zoology,Gaming,Football,16,D
+313,58,02:11:2025,Kolkata,Adiwasi,Python,Talking,Football,16,B
+314,30,12:11:2025,Gujrat,Adiwasi,Hindi,Cricket,Cars,19,C
+315,50,05:11:2025,Assam,Maratha,Zoology,Gaming,Cars,16,F
+316,44,26:10:2025,Assam,Sikh,Chemistry,Teaching,Music,16,A
+317,46,06:11:2025,Noida,Maratha,French,Shooting,MotoRacing,16,C
+318,38,09:11:2025,Shillong,Kayasth,Physics,Talking,Comedy,18,B
+319,70,30:10:2025,Shillong,Maratha,Economics,Reading,Football,17,C
+320,38,28:10:2025,Kerala,Sikh,Zoology,Sleeping,Painting,18,D
+321,44,13:11:2025,Varansi,Sikh,Zoology,Cycling,MotoRacing,19,A
+322,47,28:10:2025,Bangluru,Kashmiri,Zoology,Swimming,Painting,17,C
+323,47,28:10:2025,Delhi,Maratha,Physics,Swimming,MotoRacing,18,C
+324,30,04:11:2025,Bangluru,Odia,Zoology,Swimming,Cars,18,C
+325,71,03:11:2025,Delhi,Adiwasi,Economics,Shooting,Cooking,19,C
+326,62,27:10:2025,Noida,Maratha,Economics,Gaming,Cooking,19,D
+327,89,13:11:2025,Shillong,Sikh,Zoology,Cycling,Esports,18,A
+328,96,01:11:2025,Bangluru,Maratha,Chemistry,Reading,Comedy,18,F
+329,57,02:11:2025,Shillong,Adiwasi,English,Sleeping,Music,16,A
+330,61,04:11:2025,Bangluru,Maratha,Python,Swimming,Esports,18,F
+331,41,11:11:2025,Gujrat,Kayasth,English,Biking,Cooking,18,A
+332,43,07:11:2025,Bangluru,Sikh,Chemistry,Cycling,Football,16,F
+333,76,12:11:2025,Goa,Kayasth,French,Cricket,Music,17,F
+334,95,09:11:2025,Bangluru,Kashmiri,Chemistry,Cricket,Watching TV,18,D
+335,78,05:11:2025,Goa,Sikh,English,Teaching,MotoRacing,16,F
+336,43,12:11:2025,Kolkata,Maratha,Python,Biking,Cars,17,A
+337,66,04:11:2025,Assam,Adiwasi,Maths,Reading,MotoRacing,17,C
+338,81,27:10:2025,Delhi,Adiwasi,Economics,Teaching,Esports,18,A
+339,40,02:11:2025,Delhi,Rajput,Chemistry,Talking,MotoRacing,16,B
+340,91,04:11:2025,Goa,Kayasth,Maths,Biking,Watching TV,16,F
+341,30,05:11:2025,Gujrat,Rajput,Chemistry,Teaching,Football,19,C
+342,93,05:11:2025,Varansi,Sikh,Chemistry,Talking,Sketching,18,C
+343,88,06:11:2025,Assam,Maratha,Economics,Shooting,Cooking,16,B
+344,87,07:11:2025,Delhi,Maratha,Maths,Swimming,Painting,19,F
+345,50,31:10:2025,Varansi,Kashmiri,Python,Shooting,Cars,19,F
+346,90,12:11:2025,Varansi,Kayasth,Zoology,Reading,Watching TV,17,D
+347,47,07:11:2025,Kerala,Kayasth,Economics,Talking,Cooking,19,A
+348,92,12:11:2025,Goa,Adiwasi,Social Science,Cricket,MotoRacing,18,D
+349,40,10:11:2025,Varansi,Sikh,Economics,Cycling,Cars,17,C
+350,46,29:10:2025,Shillong,Kashmiri,English,Reading,Music,18,F
+351,33,06:11:2025,Noida,Kashmiri,Chemistry,Gaming,Cooking,18,B
+352,48,10:11:2025,Bangluru,Kashmiri,Maths,Sleeping,Music,19,D
+353,48,30:10:2025,Assam,Kashmiri,Physics,Swimming,Watching TV,16,D
+354,41,03:11:2025,Kerala,Kayasth,Zoology,Biking,Music,19,C
+355,53,01:11:2025,Delhi,Kashmiri,Chemistry,Shooting,Comedy,17,D
+356,51,03:11:2025,Bangluru,Adiwasi,English,Shooting,Painting,19,F
+357,84,01:11:2025,Gujrat,Kayasth,Physics,Swimming,MotoRacing,19,D
+358,33,10:11:2025,Assam,Bhramin,Python,Biking,Football,17,D
+359,66,08:11:2025,Bangluru,Adiwasi,English,Reading,Cooking,16,D
+360,46,09:11:2025,Varansi,Maratha,Zoology,Gaming,MotoRacing,16,C
+361,66,14:11:2025,Bangluru,Kayasth,Chemistry,Talking,Sketching,16,B
+362,72,01:11:2025,Kerala,Bhramin,Zoology,Teaching,Watching TV,17,C
+363,52,31:10:2025,Bangluru,Odia,Physics,Teaching,Comedy,16,C
+364,66,03:11:2025,Assam,Adiwasi,Chemistry,Gaming,Esports,16,C
+365,64,27:10:2025,Shillong,Bhramin,Maths,Sleeping,Cooking,16,F
+366,49,06:11:2025,Bangluru,Maratha,Physics,Teaching,Painting,18,C
+367,99,06:11:2025,Goa,Sikh,French,Reading,Painting,18,A
+368,91,11:11:2025,Assam,Sikh,Hindi,Swimming,MotoRacing,19,F
+369,97,31:10:2025,Kerala,Odia,English,Sleeping,Watching TV,16,A
+370,78,03:11:2025,Varansi,Maratha,Social Science,Cricket,Football,18,D
+371,60,03:11:2025,Varansi,Kashmiri,Maths,Teaching,Sketching,18,C
+372,92,12:11:2025,Noida,Rajput,Social Science,Talking,Cars,18,C
+373,83,30:10:2025,Goa,Odia,Maths,Sleeping,Cars,16,F
+374,58,31:10:2025,Kolkata,Kayasth,Hindi,Shooting,Cooking,17,F
+375,54,14:11:2025,Goa,Bhramin,Python,Swimming,Music,18,C
+376,68,01:11:2025,Gujrat,Kayasth,Maths,Swimming,Music,17,A
+377,32,09:11:2025,Kerala,Maratha,Social Science,Biking,Football,19,C
+378,51,10:11:2025,Assam,Adiwasi,Economics,Sleeping,Sketching,18,F
+379,76,02:11:2025,Shillong,Odia,Economics,Gaming,Watching TV,18,D
+380,48,26:10:2025,Varansi,Bhramin,Chemistry,Cricket,Sketching,18,D
+381,89,30:10:2025,Noida,Rajput,Maths,Sleeping,Watching TV,16,A
+382,61,06:11:2025,Assam,Sikh,Hindi,Reading,Esports,16,F
+383,71,09:11:2025,Gujrat,Odia,French,Biking,Comedy,19,D
+384,68,26:10:2025,Bangluru,Sikh,Physics,Cycling,Sketching,17,A
+385,56,01:11:2025,Gujrat,Maratha,Social Science,Swimming,Football,19,B
+386,49,12:11:2025,Kerala,Bhramin,English,Reading,Cars,18,B
+387,34,04:11:2025,Goa,Odia,Chemistry,Teaching,Watching TV,19,C
+388,82,13:11:2025,Assam,Sikh,French,Cycling,Watching TV,17,B
+389,97,30:10:2025,Bangluru,Sikh,Hindi,Cricket,Esports,16,A
+390,76,13:11:2025,Shillong,Odia,Chemistry,Biking,Cars,16,C
+391,52,10:11:2025,Assam,Maratha,Maths,Gaming,Esports,17,A
+392,36,28:10:2025,Gujrat,Odia,Economics,Sleeping,MotoRacing,19,B
+393,86,08:11:2025,Assam,Bhramin,Hindi,Gaming,Esports,17,B
+394,41,13:11:2025,Noida,Odia,Hindi,Sleeping,Watching TV,16,F
+395,81,01:11:2025,Noida,Odia,Hindi,Talking,Watching TV,16,A
+396,54,30:10:2025,Bangluru,Kashmiri,Social Science,Reading,Esports,16,B
+397,34,28:10:2025,Noida,Sikh,Chemistry,Swimming,Cooking,16,C
+398,31,12:11:2025,Delhi,Rajput,Physics,Sleeping,Watching TV,19,A
+399,61,06:11:2025,Bangluru,Sikh,Physics,Teaching,Football,19,F
+400,81,06:11:2025,Kolkata,Adiwasi,Maths,Shooting,Music,19,A
+401,72,01:11:2025,Gujrat,Odia,French,Biking,Cars,19,F
+402,38,31:10:2025,Delhi,Kayasth,Zoology,Cricket,Watching TV,17,D
+403,50,13:11:2025,Bangluru,Rajput,Maths,Teaching,Music,16,D
+404,73,30:10:2025,Shillong,Adiwasi,Chemistry,Sleeping,Cooking,17,C
+405,69,03:11:2025,Kerala,Kayasth,Physics,Cycling,Football,19,A
+406,61,09:11:2025,Kerala,Odia,Python,Gaming,Cooking,19,F
+407,77,01:11:2025,Goa,Kayasth,French,Sleeping,Comedy,19,F
+408,97,31:10:2025,Delhi,Sikh,Physics,Teaching,Esports,17,D
+409,95,01:11:2025,Goa,Adiwasi,Physics,Gaming,Music,19,A
+410,44,05:11:2025,Kerala,Odia,Chemistry,Reading,Cars,19,F
+411,93,10:11:2025,Delhi,Kashmiri,Economics,Reading,Cars,17,A
+412,30,07:11:2025,Delhi,Maratha,Economics,Cycling,Sketching,17,B
+413,60,30:10:2025,Kerala,Kashmiri,Chemistry,Talking,Music,18,B
+414,94,05:11:2025,Varansi,Rajput,Python,Gaming,Painting,18,D
+415,66,28:10:2025,Delhi,Sikh,Maths,Sleeping,Football,18,F
+416,80,04:11:2025,Gujrat,Odia,Social Science,Reading,Esports,19,A
+417,69,28:10:2025,Varansi,Maratha,English,Teaching,Sketching,19,C
+418,56,12:11:2025,Noida,Rajput,Maths,Sleeping,Painting,18,D
+419,88,10:11:2025,Kolkata,Sikh,Chemistry,Biking,Watching TV,16,C
+420,62,05:11:2025,Kolkata,Maratha,Python,Reading,Painting,16,D
+421,40,09:11:2025,Goa,Odia,Social Science,Cycling,Comedy,17,A
+422,90,12:11:2025,Goa,Maratha,Hindi,Swimming,Esports,19,D
+423,83,30:10:2025,Varansi,Rajput,Social Science,Cricket,Cars,19,B
+424,66,11:11:2025,Assam,Kashmiri,Zoology,Gaming,Comedy,19,A
+425,64,14:11:2025,Goa,Kashmiri,Maths,Cycling,Sketching,17,D
+426,81,07:11:2025,Assam,Kashmiri,Chemistry,Gaming,Cooking,18,A
+427,56,09:11:2025,Assam,Maratha,Python,Cycling,Cars,18,C
+428,83,04:11:2025,Gujrat,Sikh,Economics,Cycling,Comedy,18,A
+429,30,07:11:2025,Kolkata,Adiwasi,Zoology,Swimming,Watching TV,17,D
+430,47,31:10:2025,Assam,Rajput,Economics,Reading,Painting,18,A
+431,97,01:11:2025,Assam,Maratha,Social Science,Cricket,Cooking,16,C
+432,65,04:11:2025,Shillong,Odia,Physics,Teaching,Cooking,16,F
+433,87,04:11:2025,Goa,Sikh,French,Reading,Esports,18,C
+434,42,28:10:2025,Kolkata,Odia,Hindi,Talking,Comedy,18,F
+435,80,09:11:2025,Noida,Bhramin,Economics,Shooting,Comedy,18,F
+436,96,02:11:2025,Assam,Kashmiri,Maths,Gaming,Esports,18,A
+437,47,01:11:2025,Varansi,Sikh,Social Science,Reading,Painting,17,F
+438,56,01:11:2025,Kolkata,Adiwasi,Chemistry,Gaming,Painting,17,D
+439,44,28:10:2025,Gujrat,Maratha,Physics,Talking,Watching TV,16,F
+440,94,31:10:2025,Noida,Bhramin,Zoology,Biking,Comedy,17,B
+441,92,12:11:2025,Gujrat,Rajput,English,Reading,Esports,18,F
+442,74,12:11:2025,Kolkata,Maratha,Zoology,Biking,Football,16,C
+443,30,14:11:2025,Delhi,Adiwasi,Hindi,Cycling,Football,19,A
+444,42,01:11:2025,Shillong,Bhramin,Physics,Reading,Cars,18,B
+445,96,04:11:2025,Shillong,Bhramin,English,Shooting,Watching TV,19,C
+446,87,08:11:2025,Delhi,Kayasth,Economics,Gaming,Sketching,17,B
+447,55,09:11:2025,Assam,Rajput,Physics,Cricket,Esports,16,B
+448,38,12:11:2025,Delhi,Rajput,Python,Cricket,Football,19,D
+449,33,04:11:2025,Varansi,Bhramin,Maths,Sleeping,Esports,18,F
+450,90,04:11:2025,Bangluru,Sikh,Python,Talking,Music,18,A
+451,65,09:11:2025,Varansi,Bhramin,Maths,Shooting,MotoRacing,16,F
+452,45,27:10:2025,Goa,Kayasth,Economics,Gaming,Football,16,D
+453,81,29:10:2025,Shillong,Sikh,Python,Cricket,Football,17,C
+454,60,08:11:2025,Delhi,Maratha,Physics,Shooting,Esports,17,D
+455,61,12:11:2025,Kolkata,Rajput,Zoology,Cricket,Comedy,16,D
+456,78,07:11:2025,Gujrat,Adiwasi,Zoology,Teaching,MotoRacing,18,A
+457,67,14:11:2025,Kolkata,Adiwasi,French,Cycling,Sketching,17,C
+458,48,10:11:2025,Noida,Kashmiri,Hindi,Sleeping,Music,16,F
+459,56,26:10:2025,Delhi,Kayasth,Hindi,Talking,Comedy,16,F
+460,37,13:11:2025,Kerala,Kashmiri,Maths,Cricket,Comedy,16,D
+461,49,04:11:2025,Kerala,Kashmiri,Physics,Shooting,Watching TV,19,A
+462,62,26:10:2025,Kolkata,Kayasth,Hindi,Talking,Sketching,18,C
+463,41,11:11:2025,Gujrat,Maratha,Maths,Teaching,Painting,16,C
+464,42,01:11:2025,Gujrat,Bhramin,Python,Reading,Esports,17,B
+465,69,08:11:2025,Kolkata,Maratha,Python,Gaming,Music,17,F
+466,60,26:10:2025,Goa,Rajput,English,Shooting,Cars,19,B
+467,36,31:10:2025,Bangluru,Adiwasi,Python,Biking,Football,19,A
+468,69,07:11:2025,Kerala,Adiwasi,Economics,Sleeping,Football,16,F
+469,81,09:11:2025,Kolkata,Kashmiri,Chemistry,Cricket,Music,19,D
+470,30,10:11:2025,Goa,Odia,Hindi,Gaming,Painting,19,D
+471,93,12:11:2025,Goa,Rajput,Maths,Biking,Watching TV,18,B
+472,56,07:11:2025,Varansi,Rajput,Economics,Cycling,MotoRacing,16,F
+473,51,10:11:2025,Goa,Adiwasi,Zoology,Gaming,Football,18,F
+474,63,12:11:2025,Delhi,Adiwasi,Maths,Shooting,MotoRacing,19,A
+475,60,07:11:2025,Shillong,Bhramin,French,Talking,Sketching,18,C
+476,64,07:11:2025,Kolkata,Kashmiri,French,Shooting,Esports,19,B
+477,42,07:11:2025,Bangluru,Odia,Python,Sleeping,Cars,18,D
+478,48,27:10:2025,Kerala,Odia,Social Science,Reading,Esports,18,D
+479,77,28:10:2025,Goa,Sikh,Zoology,Sleeping,Painting,19,B
+480,61,28:10:2025,Kolkata,Odia,Maths,Cricket,Cooking,18,B
+481,85,14:11:2025,Goa,Maratha,Zoology,Swimming,Football,16,A
+482,100,05:11:2025,Kerala,Maratha,Maths,Cricket,Football,16,B
+483,94,11:11:2025,Kerala,Kayasth,Maths,Biking,Watching TV,16,F
+484,79,08:11:2025,Delhi,Adiwasi,French,Sleeping,Comedy,18,B
+485,64,12:11:2025,Bangluru,Kashmiri,Physics,Swimming,Football,17,B
+486,56,06:11:2025,Goa,Adiwasi,Hindi,Teaching,Sketching,19,C
+487,84,28:10:2025,Noida,Kashmiri,Hindi,Sleeping,Music,18,F
+488,65,14:11:2025,Delhi,Odia,Social Science,Swimming,Sketching,16,C
+489,38,26:10:2025,Shillong,Kayasth,Economics,Sleeping,Cooking,19,D
+490,95,09:11:2025,Shillong,Sikh,English,Teaching,Comedy,19,F
+491,43,08:11:2025,Goa,Adiwasi,Chemistry,Sleeping,Esports,17,C
+492,86,01:11:2025,Goa,Odia,Zoology,Swimming,MotoRacing,19,B
+493,56,09:11:2025,Shillong,Adiwasi,Python,Cricket,Painting,16,B
+494,51,10:11:2025,Assam,Rajput,Maths,Cricket,Cooking,17,D
+495,43,06:11:2025,Shillong,Adiwasi,Zoology,Shooting,Cooking,18,B
+496,40,06:11:2025,Delhi,Sikh,Python,Swimming,Sketching,16,D
+497,44,29:10:2025,Delhi,Kayasth,Python,Swimming,Comedy,16,D
+498,41,09:11:2025,Bangluru,Bhramin,Zoology,Cricket,Esports,16,B
+499,37,08:11:2025,Assam,Odia,Hindi,Teaching,Cars,18,D
+500,70,01:11:2025,Bangluru,Kashmiri,Python,Teaching,Music,19,F
+501,68,14:11:2025,Kolkata,Maratha,Hindi,Teaching,Painting,17,F
+502,97,10:11:2025,Goa,Bhramin,Maths,Shooting,Comedy,18,A
+503,76,27:10:2025,Assam,Kayasth,Chemistry,Swimming,Football,17,B
+504,91,10:11:2025,Bangluru,Bhramin,Maths,Cycling,Cars,16,F
+505,89,11:11:2025,Kerala,Kashmiri,English,Cricket,Music,17,C
+506,35,08:11:2025,Varansi,Odia,Python,Sleeping,Music,19,D
+507,90,11:11:2025,Kolkata,Adiwasi,Chemistry,Shooting,Esports,17,A
+508,56,08:11:2025,Gujrat,Rajput,Chemistry,Biking,Esports,16,C
+509,48,02:11:2025,Gujrat,Kayasth,Python,Talking,Comedy,16,F
+510,89,11:11:2025,Shillong,Maratha,Physics,Cycling,Cooking,18,D
+511,97,05:11:2025,Gujrat,Odia,French,Gaming,Sketching,16,C
+512,51,26:10:2025,Delhi,Bhramin,English,Talking,Football,17,A
+513,75,26:10:2025,Gujrat,Rajput,Economics,Cricket,Cars,19,D
+514,66,07:11:2025,Gujrat,Bhramin,Economics,Cricket,Painting,18,D
+515,59,28:10:2025,Assam,Maratha,Economics,Sleeping,Cars,18,B
+516,71,27:10:2025,Assam,Kashmiri,Physics,Reading,Esports,16,F
+517,58,03:11:2025,Kolkata,Sikh,Chemistry,Teaching,Cooking,17,D
+518,98,27:10:2025,Goa,Kashmiri,Economics,Cycling,Watching TV,19,D
+519,80,26:10:2025,Bangluru,Kayasth,English,Swimming,Cars,16,D
+520,97,30:10:2025,Varansi,Adiwasi,French,Teaching,Esports,17,C
+521,51,04:11:2025,Gujrat,Bhramin,Economics,Sleeping,Music,16,D
+522,32,08:11:2025,Bangluru,Odia,Physics,Gaming,MotoRacing,16,C
+523,55,29:10:2025,Gujrat,Rajput,English,Reading,Comedy,18,F
+524,67,02:11:2025,Kolkata,Sikh,Economics,Teaching,Sketching,18,A
+525,87,02:11:2025,Varansi,Adiwasi,Social Science,Reading,Cooking,19,D
+526,60,12:11:2025,Kolkata,Maratha,French,Cricket,Comedy,19,D
+527,69,10:11:2025,Noida,Rajput,Economics,Gaming,Sketching,18,D
+528,59,29:10:2025,Assam,Kayasth,French,Shooting,Music,18,F
+529,44,29:10:2025,Kerala,Kashmiri,Python,Teaching,Comedy,19,B
+530,51,05:11:2025,Assam,Kayasth,Zoology,Shooting,Watching TV,19,D
+531,87,07:11:2025,Varansi,Maratha,Economics,Cycling,Cooking,18,A
+532,77,29:10:2025,Assam,Kayasth,Chemistry,Cricket,Esports,19,C
+533,61,28:10:2025,Delhi,Rajput,Python,Cycling,Watching TV,19,F
+534,53,06:11:2025,Varansi,Adiwasi,Python,Sleeping,Sketching,19,A
+535,99,28:10:2025,Shillong,Rajput,Zoology,Reading,Painting,16,A
+536,68,08:11:2025,Kerala,Rajput,Python,Cycling,Watching TV,16,C
+537,77,14:11:2025,Delhi,Kayasth,Social Science,Swimming,Music,18,A
+538,63,13:11:2025,Varansi,Odia,Hindi,Cycling,Football,16,A
+539,78,14:11:2025,Kolkata,Sikh,Python,Teaching,Watching TV,16,D
+540,93,02:11:2025,Kerala,Sikh,Zoology,Shooting,Watching TV,17,B
+541,82,10:11:2025,Assam,Odia,Python,Talking,Cooking,18,D
+542,77,01:11:2025,Kerala,Maratha,Economics,Swimming,MotoRacing,17,A
+543,32,02:11:2025,Noida,Bhramin,Hindi,Reading,Comedy,17,C
+544,88,29:10:2025,Kolkata,Odia,English,Gaming,Football,16,B
+545,30,31:10:2025,Varansi,Bhramin,Maths,Talking,MotoRacing,19,F
+546,66,14:11:2025,Delhi,Sikh,Python,Reading,Comedy,16,F
+547,73,27:10:2025,Noida,Adiwasi,Python,Cycling,Comedy,19,F
+548,32,08:11:2025,Assam,Bhramin,French,Biking,Sketching,19,A
+549,66,06:11:2025,Noida,Kayasth,Zoology,Cycling,Sketching,18,A
+550,90,27:10:2025,Shillong,Adiwasi,Zoology,Cricket,MotoRacing,16,B
+551,99,31:10:2025,Kerala,Odia,French,Biking,Music,17,C
+552,89,05:11:2025,Kerala,Bhramin,French,Talking,Football,19,D
+553,84,01:11:2025,Goa,Rajput,Maths,Biking,Painting,17,D
+554,55,28:10:2025,Goa,Kashmiri,Python,Sleeping,Football,16,B
+555,100,09:11:2025,Varansi,Adiwasi,Economics,Biking,Painting,18,F
+556,49,31:10:2025,Bangluru,Bhramin,Python,Swimming,Football,19,C
+557,99,02:11:2025,Shillong,Rajput,English,Talking,Esports,16,B
+558,39,13:11:2025,Noida,Rajput,Social Science,Swimming,Cooking,19,A
+559,76,14:11:2025,Assam,Adiwasi,Zoology,Swimming,Esports,19,B
+560,56,09:11:2025,Kerala,Sikh,English,Teaching,MotoRacing,18,A
+561,30,30:10:2025,Kerala,Maratha,Python,Shooting,MotoRacing,19,A
+562,62,09:11:2025,Gujrat,Adiwasi,Maths,Cricket,Sketching,18,B
+563,30,31:10:2025,Gujrat,Rajput,Chemistry,Cycling,Football,19,D
+564,56,03:11:2025,Varansi,Sikh,Social Science,Cricket,Football,18,A
+565,75,06:11:2025,Assam,Kashmiri,Social Science,Talking,Watching TV,16,B
+566,75,30:10:2025,Assam,Adiwasi,Physics,Reading,MotoRacing,16,F
+567,72,11:11:2025,Bangluru,Odia,Economics,Sleeping,Comedy,19,F
+568,43,01:11:2025,Shillong,Sikh,Chemistry,Biking,Watching TV,17,C
+569,64,14:11:2025,Delhi,Maratha,English,Gaming,Music,19,A
+570,37,30:10:2025,Gujrat,Maratha,Python,Reading,Football,17,F
+571,41,29:10:2025,Gujrat,Odia,Zoology,Swimming,Football,16,D
+572,93,12:11:2025,Noida,Sikh,French,Shooting,MotoRacing,17,B
+573,53,31:10:2025,Noida,Rajput,Physics,Talking,Football,17,F
+574,100,11:11:2025,Bangluru,Kayasth,Hindi,Cycling,Cars,19,C
+575,70,31:10:2025,Bangluru,Adiwasi,Maths,Talking,Music,16,F
+576,44,28:10:2025,Kerala,Rajput,Maths,Swimming,Sketching,19,D
+577,38,11:11:2025,Goa,Kayasth,English,Biking,Painting,17,A
+578,46,07:11:2025,Kerala,Kashmiri,English,Teaching,Cars,19,C
+579,73,03:11:2025,Goa,Maratha,Hindi,Cycling,MotoRacing,16,B
+580,36,31:10:2025,Shillong,Sikh,Python,Gaming,Cars,16,D
+581,82,01:11:2025,Shillong,Kayasth,English,Biking,Esports,18,C
+582,69,11:11:2025,Goa,Rajput,Chemistry,Biking,Cooking,18,A
+583,43,11:11:2025,Gujrat,Bhramin,Chemistry,Gaming,Cars,17,A
+584,50,03:11:2025,Assam,Bhramin,English,Cycling,Cooking,16,F
+585,62,14:11:2025,Bangluru,Kayasth,Social Science,Shooting,Music,19,B
+586,46,09:11:2025,Kolkata,Adiwasi,Maths,Cricket,MotoRacing,17,B
+587,33,02:11:2025,Varansi,Maratha,English,Reading,Esports,16,C
+588,56,02:11:2025,Varansi,Kashmiri,English,Gaming,Cooking,16,A
+589,70,27:10:2025,Gujrat,Kashmiri,Maths,Cricket,Watching TV,18,B
+590,62,06:11:2025,Gujrat,Odia,Social Science,Biking,Watching TV,18,F
+591,48,14:11:2025,Gujrat,Bhramin,Chemistry,Reading,Cooking,17,A
+592,57,04:11:2025,Varansi,Sikh,Hindi,Teaching,Comedy,19,B
+593,82,28:10:2025,Assam,Kayasth,French,Gaming,Football,19,B
+594,42,29:10:2025,Varansi,Maratha,Economics,Cricket,Music,18,A
+595,82,14:11:2025,Kerala,Odia,Python,Swimming,Sketching,17,A
+596,81,07:11:2025,Shillong,Kashmiri,Chemistry,Cycling,Watching TV,19,D
+597,55,03:11:2025,Kerala,Adiwasi,Social Science,Swimming,Comedy,19,A
+598,76,31:10:2025,Kerala,Kayasth,Chemistry,Shooting,MotoRacing,16,B
+599,46,27:10:2025,Kolkata,Kayasth,Hindi,Gaming,Painting,19,B
+600,61,06:11:2025,Kerala,Kashmiri,Physics,Biking,Cooking,16,C
+601,73,26:10:2025,Varansi,Sikh,Maths,Sleeping,Cooking,18,A
+602,41,05:11:2025,Kerala,Bhramin,Python,Swimming,Painting,16,D
+603,42,28:10:2025,Shillong,Odia,Maths,Reading,Painting,16,F
+604,59,14:11:2025,Noida,Bhramin,English,Teaching,Painting,18,D
+605,32,31:10:2025,Delhi,Rajput,Zoology,Teaching,Sketching,18,B
+606,82,01:11:2025,Gujrat,Maratha,Python,Reading,Sketching,19,B
+607,42,03:11:2025,Noida,Odia,Maths,Cricket,Cars,17,B
+608,42,27:10:2025,Delhi,Sikh,English,Cricket,Music,18,B
+609,35,13:11:2025,Kolkata,Bhramin,Hindi,Cycling,Music,16,C
+610,95,10:11:2025,Bangluru,Bhramin,Economics,Sleeping,Esports,16,D
+611,56,14:11:2025,Varansi,Adiwasi,English,Gaming,Sketching,18,F
+612,58,03:11:2025,Bangluru,Rajput,Physics,Sleeping,Music,19,C
+613,56,05:11:2025,Delhi,Odia,French,Cycling,Music,17,F
+614,45,14:11:2025,Goa,Adiwasi,Zoology,Sleeping,MotoRacing,18,B
+615,54,06:11:2025,Delhi,Kashmiri,Zoology,Reading,Sketching,16,A
+616,46,30:10:2025,Kerala,Maratha,Physics,Gaming,Music,17,B
+617,47,08:11:2025,Assam,Maratha,Hindi,Biking,Sketching,19,B
+618,85,29:10:2025,Kerala,Bhramin,Social Science,Sleeping,Cooking,17,C
+619,100,08:11:2025,Assam,Adiwasi,Chemistry,Shooting,Sketching,18,A
+620,69,04:11:2025,Shillong,Maratha,Social Science,Talking,Cars,17,A
+621,40,09:11:2025,Kolkata,Adiwasi,Chemistry,Cycling,Cooking,18,B
+622,96,05:11:2025,Varansi,Bhramin,English,Teaching,Football,19,C
+623,60,31:10:2025,Delhi,Adiwasi,English,Sleeping,Watching TV,16,C
+624,98,28:10:2025,Varansi,Sikh,Physics,Talking,Comedy,18,A
+625,80,31:10:2025,Noida,Maratha,Python,Reading,Comedy,17,D
+626,44,07:11:2025,Bangluru,Adiwasi,Social Science,Cricket,Comedy,17,B
+627,77,01:11:2025,Gujrat,Sikh,Physics,Shooting,Comedy,16,C
+628,95,31:10:2025,Gujrat,Bhramin,Economics,Reading,Cooking,17,A
+629,60,30:10:2025,Shillong,Maratha,Physics,Teaching,Comedy,16,B
+630,45,01:11:2025,Goa,Rajput,Chemistry,Sleeping,Painting,19,B
+631,36,06:11:2025,Shillong,Adiwasi,Social Science,Swimming,MotoRacing,16,C
+632,79,31:10:2025,Delhi,Adiwasi,Python,Swimming,Comedy,16,A
+633,35,13:11:2025,Shillong,Kashmiri,Python,Biking,Cars,19,B
+634,58,10:11:2025,Assam,Sikh,English,Sleeping,Sketching,18,D
+635,81,02:11:2025,Noida,Adiwasi,Physics,Teaching,Comedy,17,F
+636,94,10:11:2025,Kerala,Rajput,English,Gaming,Sketching,18,D
+637,47,30:10:2025,Delhi,Odia,Hindi,Sleeping,Cars,16,C
+638,45,13:11:2025,Kolkata,Adiwasi,Physics,Teaching,Cars,19,D
+639,73,27:10:2025,Noida,Odia,Physics,Cycling,Painting,17,A
+640,62,10:11:2025,Goa,Odia,Zoology,Cycling,Comedy,17,D
+641,48,26:10:2025,Kerala,Kayasth,Economics,Shooting,Esports,18,B
+642,82,30:10:2025,Kerala,Sikh,Python,Biking,Cars,17,B
+643,59,10:11:2025,Goa,Odia,Maths,Cricket,Comedy,18,F
+644,46,31:10:2025,Noida,Adiwasi,Maths,Cricket,Esports,17,B
+645,36,31:10:2025,Goa,Sikh,English,Shooting,Watching TV,16,D
+646,87,29:10:2025,Noida,Maratha,Economics,Biking,Watching TV,16,D
+647,96,30:10:2025,Goa,Adiwasi,Chemistry,Teaching,Football,17,F
+648,83,30:10:2025,Assam,Odia,Economics,Teaching,Football,19,C
+649,63,13:11:2025,Delhi,Sikh,Maths,Reading,Painting,17,A
+650,52,29:10:2025,Kerala,Adiwasi,Physics,Sleeping,Sketching,18,F
+651,66,09:11:2025,Bangluru,Rajput,English,Talking,Cooking,16,C
+652,84,08:11:2025,Kolkata,Adiwasi,French,Swimming,Watching TV,19,B
+653,45,01:11:2025,Goa,Maratha,Physics,Cricket,Watching TV,17,B
+654,35,06:11:2025,Bangluru,Kashmiri,Chemistry,Cricket,Painting,17,D
+655,66,09:11:2025,Gujrat,Bhramin,Chemistry,Sleeping,Cars,17,D
+656,52,01:11:2025,Assam,Adiwasi,Maths,Cycling,Cars,18,F
+657,86,31:10:2025,Noida,Adiwasi,Hindi,Teaching,Esports,19,D
+658,30,30:10:2025,Assam,Adiwasi,Zoology,Shooting,Cooking,19,D
+659,98,29:10:2025,Assam,Odia,Chemistry,Cycling,Comedy,16,F
+660,65,28:10:2025,Kolkata,Adiwasi,Economics,Swimming,Sketching,17,F
+661,61,30:10:2025,Kerala,Adiwasi,Economics,Biking,MotoRacing,19,F
+662,32,04:11:2025,Gujrat,Kashmiri,Zoology,Talking,Watching TV,17,C
+663,63,04:11:2025,Varansi,Sikh,Social Science,Shooting,Esports,17,D
+664,47,02:11:2025,Bangluru,Sikh,Physics,Talking,Cooking,17,D
+665,72,03:11:2025,Goa,Bhramin,Zoology,Talking,Football,19,B
+666,78,30:10:2025,Noida,Bhramin,Physics,Swimming,Cars,17,D
+667,46,29:10:2025,Noida,Kayasth,Zoology,Gaming,Sketching,16,F
+668,37,01:11:2025,Bangluru,Sikh,Zoology,Cycling,MotoRacing,18,C
+669,96,10:11:2025,Gujrat,Sikh,French,Talking,Watching TV,16,A
+670,37,28:10:2025,Kerala,Sikh,English,Swimming,Sketching,16,D
+671,44,26:10:2025,Varansi,Kashmiri,Economics,Teaching,MotoRacing,16,C
+672,75,29:10:2025,Kolkata,Sikh,Zoology,Cycling,Painting,18,C
+673,87,31:10:2025,Delhi,Kashmiri,French,Reading,Cooking,16,D
+674,81,05:11:2025,Shillong,Kayasth,Chemistry,Cricket,Football,17,B
+675,62,05:11:2025,Kerala,Maratha,Chemistry,Shooting,Football,18,B
+676,48,08:11:2025,Noida,Kashmiri,Economics,Shooting,Music,19,D
+677,100,07:11:2025,Kerala,Maratha,Physics,Reading,Sketching,17,F
+678,65,01:11:2025,Noida,Odia,Chemistry,Reading,Painting,17,C
+679,55,07:11:2025,Noida,Maratha,Hindi,Swimming,Cooking,19,A
+680,48,30:10:2025,Varansi,Bhramin,Hindi,Teaching,MotoRacing,19,D
+681,96,14:11:2025,Varansi,Kashmiri,Maths,Talking,Football,17,D
+682,32,05:11:2025,Assam,Adiwasi,Zoology,Swimming,Cars,17,D
+683,88,10:11:2025,Varansi,Maratha,Physics,Teaching,Watching TV,18,B
+684,88,30:10:2025,Goa,Kashmiri,Zoology,Teaching,Esports,18,A
+685,57,01:11:2025,Assam,Rajput,Social Science,Gaming,Esports,19,A
+686,90,27:10:2025,Kolkata,Sikh,Zoology,Cycling,Cars,18,F
+687,63,02:11:2025,Varansi,Kayasth,Hindi,Swimming,Sketching,17,D
+688,92,13:11:2025,Gujrat,Kayasth,Maths,Gaming,Painting,16,D
+689,70,07:11:2025,Kerala,Sikh,Physics,Sleeping,Comedy,18,D
+690,42,09:11:2025,Kerala,Kayasth,Physics,Gaming,Cooking,18,A
+691,75,06:11:2025,Kerala,Odia,Hindi,Cricket,Football,18,C
+692,96,27:10:2025,Bangluru,Sikh,Zoology,Talking,Football,16,F
+693,76,10:11:2025,Varansi,Rajput,Python,Reading,Cars,16,D
+694,68,31:10:2025,Bangluru,Maratha,French,Teaching,Sketching,19,D
+695,48,28:10:2025,Varansi,Kayasth,French,Biking,Esports,19,F
+696,62,01:11:2025,Assam,Kashmiri,Maths,Cycling,Comedy,19,B
+697,52,31:10:2025,Noida,Bhramin,Maths,Cricket,Football,18,B
+698,33,29:10:2025,Kerala,Odia,French,Swimming,Music,19,A
+699,61,26:10:2025,Goa,Maratha,Python,Gaming,Watching TV,18,B
+700,66,28:10:2025,Noida,Kashmiri,Maths,Swimming,Music,16,F
+701,41,11:11:2025,Goa,Sikh,English,Sleeping,Comedy,18,A
+702,42,01:11:2025,Assam,Odia,Maths,Swimming,Football,19,F
+703,51,26:10:2025,Gujrat,Odia,English,Reading,Watching TV,17,F
+704,88,26:10:2025,Bangluru,Maratha,Zoology,Sleeping,Cars,19,A
+705,44,31:10:2025,Delhi,Kayasth,French,Biking,Music,19,C
+706,34,08:11:2025,Kolkata,Kayasth,English,Sleeping,Painting,16,D
+707,84,07:11:2025,Assam,Adiwasi,Python,Cricket,Cooking,17,C
+708,64,09:11:2025,Gujrat,Maratha,French,Sleeping,Cooking,16,C
+709,69,13:11:2025,Assam,Adiwasi,Zoology,Talking,Music,16,B
+710,84,30:10:2025,Shillong,Sikh,Python,Cricket,Comedy,16,B
+711,44,30:10:2025,Kerala,Sikh,English,Biking,MotoRacing,19,B
+712,100,08:11:2025,Shillong,Odia,French,Cycling,Sketching,18,F
+713,36,26:10:2025,Noida,Maratha,Maths,Sleeping,Esports,17,D
+714,89,30:10:2025,Kolkata,Rajput,Python,Talking,Cars,17,B
+715,66,29:10:2025,Goa,Adiwasi,Economics,Cycling,Football,18,D
+716,71,07:11:2025,Gujrat,Kashmiri,French,Biking,MotoRacing,19,D
+717,99,07:11:2025,Delhi,Adiwasi,Python,Cycling,Esports,18,F
+718,75,29:10:2025,Bangluru,Odia,French,Biking,Music,17,D
+719,50,29:10:2025,Bangluru,Adiwasi,Zoology,Teaching,Watching TV,19,F
+720,76,07:11:2025,Varansi,Bhramin,Physics,Swimming,Cooking,17,B
+721,39,27:10:2025,Kolkata,Sikh,Social Science,Gaming,Sketching,19,F
+722,71,10:11:2025,Gujrat,Kayasth,Economics,Cycling,Sketching,19,A
+723,72,29:10:2025,Varansi,Sikh,Python,Swimming,Painting,18,A
+724,88,07:11:2025,Kerala,Adiwasi,Hindi,Swimming,Football,16,F
+725,45,09:11:2025,Assam,Sikh,Python,Swimming,Football,17,B
+726,86,29:10:2025,Bangluru,Maratha,Chemistry,Cricket,Comedy,17,B
+727,89,26:10:2025,Assam,Adiwasi,Python,Biking,Comedy,19,A
+728,90,04:11:2025,Delhi,Odia,Maths,Cricket,Comedy,18,C
+729,31,05:11:2025,Goa,Bhramin,French,Cricket,Football,17,A
+730,61,27:10:2025,Kerala,Bhramin,Economics,Gaming,Sketching,16,D
+731,48,31:10:2025,Assam,Bhramin,Python,Teaching,Cars,19,F
+732,87,11:11:2025,Noida,Rajput,Social Science,Gaming,MotoRacing,17,F
+733,78,05:11:2025,Noida,Adiwasi,Economics,Sleeping,Esports,19,B
+734,40,09:11:2025,Kolkata,Kayasth,Social Science,Teaching,Watching TV,19,F
+735,37,11:11:2025,Goa,Sikh,Maths,Reading,Football,16,F
+736,70,07:11:2025,Gujrat,Sikh,Maths,Gaming,Watching TV,17,F
+737,61,26:10:2025,Delhi,Sikh,Python,Sleeping,Football,16,A
+738,96,11:11:2025,Gujrat,Sikh,Zoology,Cricket,Sketching,18,B
+739,66,10:11:2025,Varansi,Bhramin,Physics,Shooting,Watching TV,17,B
+740,34,11:11:2025,Shillong,Sikh,Physics,Biking,Esports,17,C
+741,79,11:11:2025,Shillong,Odia,Hindi,Cricket,Football,17,F
+742,89,04:11:2025,Shillong,Odia,Physics,Shooting,Sketching,16,B
+743,87,01:11:2025,Goa,Adiwasi,English,Talking,MotoRacing,17,C
+744,52,07:11:2025,Kerala,Kayasth,Python,Gaming,Football,18,C
+745,45,03:11:2025,Goa,Maratha,Zoology,Gaming,Cooking,17,B
+746,62,29:10:2025,Delhi,Maratha,Hindi,Talking,Watching TV,19,F
+747,46,27:10:2025,Delhi,Kashmiri,Python,Teaching,Cars,19,A
+748,92,26:10:2025,Assam,Kashmiri,Chemistry,Shooting,Cars,16,F
+749,30,31:10:2025,Goa,Rajput,French,Gaming,Music,17,D
+750,38,03:11:2025,Gujrat,Adiwasi,Physics,Biking,Comedy,16,D
+751,34,13:11:2025,Goa,Maratha,Python,Swimming,Painting,16,F
+752,66,30:10:2025,Assam,Sikh,French,Shooting,Comedy,17,D
+753,91,31:10:2025,Shillong,Kashmiri,English,Swimming,Music,17,B
+754,73,08:11:2025,Bangluru,Rajput,Economics,Teaching,Cars,18,F
+755,89,10:11:2025,Varansi,Sikh,English,Reading,Cars,17,C
+756,92,03:11:2025,Bangluru,Kashmiri,Physics,Cricket,Cars,16,C
+757,90,27:10:2025,Kolkata,Sikh,Physics,Talking,Music,17,F
+758,92,10:11:2025,Shillong,Adiwasi,Hindi,Sleeping,Painting,19,F
+759,35,30:10:2025,Goa,Bhramin,English,Biking,Football,19,B
+760,45,29:10:2025,Goa,Rajput,Social Science,Cricket,Painting,18,F
+761,34,07:11:2025,Gujrat,Sikh,Economics,Teaching,Comedy,16,F
+762,82,14:11:2025,Gujrat,Sikh,Chemistry,Shooting,Cooking,18,A
+763,58,08:11:2025,Goa,Adiwasi,Economics,Cricket,Cooking,18,B
+764,31,28:10:2025,Varansi,Adiwasi,Maths,Shooting,Comedy,19,F
+765,77,09:11:2025,Varansi,Kashmiri,Zoology,Cycling,Esports,16,C
+766,98,09:11:2025,Kolkata,Odia,Physics,Biking,Watching TV,19,C
+767,41,11:11:2025,Goa,Sikh,Physics,Talking,Cooking,16,B
+768,100,05:11:2025,Noida,Odia,Physics,Teaching,Music,19,F
+769,70,06:11:2025,Varansi,Bhramin,Chemistry,Biking,Painting,19,B
+770,40,27:10:2025,Delhi,Kashmiri,Maths,Cricket,Watching TV,19,B
+771,96,01:11:2025,Kolkata,Rajput,Economics,Talking,Football,16,B
+772,85,29:10:2025,Varansi,Kashmiri,Physics,Reading,Comedy,17,D
+773,43,26:10:2025,Gujrat,Odia,Hindi,Cricket,Watching TV,17,F
+774,88,14:11:2025,Shillong,Rajput,Zoology,Cricket,Esports,18,A
+775,77,29:10:2025,Varansi,Bhramin,French,Gaming,Esports,16,A
+776,71,05:11:2025,Goa,Kashmiri,Economics,Gaming,Cars,18,F
+777,77,03:11:2025,Bangluru,Kashmiri,French,Swimming,MotoRacing,18,C
+778,62,03:11:2025,Noida,Bhramin,Economics,Sleeping,MotoRacing,16,D
+779,70,26:10:2025,Shillong,Maratha,Python,Sleeping,Sketching,19,A
+780,52,13:11:2025,Kolkata,Rajput,Hindi,Swimming,MotoRacing,17,F
+781,86,13:11:2025,Delhi,Adiwasi,Hindi,Shooting,Watching TV,17,B
+782,79,31:10:2025,Kolkata,Bhramin,Python,Teaching,Esports,18,D
+783,39,26:10:2025,Delhi,Maratha,English,Swimming,MotoRacing,18,C
+784,75,31:10:2025,Kolkata,Maratha,Physics,Swimming,Cars,17,F
+785,57,29:10:2025,Varansi,Odia,Zoology,Teaching,Cooking,17,A
+786,79,09:11:2025,Bangluru,Kayasth,Physics,Sleeping,Comedy,17,A
+787,33,01:11:2025,Delhi,Kayasth,Chemistry,Cricket,Watching TV,18,F
+788,36,13:11:2025,Varansi,Rajput,Maths,Cycling,Watching TV,19,A
+789,49,02:11:2025,Gujrat,Kayasth,Python,Shooting,Music,19,B
+790,68,13:11:2025,Delhi,Rajput,English,Cycling,MotoRacing,18,D
+791,89,11:11:2025,Assam,Kayasth,Python,Reading,MotoRacing,18,C
+792,36,01:11:2025,Noida,Rajput,Chemistry,Gaming,Watching TV,17,A
+793,38,29:10:2025,Delhi,Maratha,Chemistry,Cricket,Music,18,B
+794,80,06:11:2025,Noida,Sikh,Zoology,Cycling,Watching TV,16,A
+795,66,04:11:2025,Gujrat,Kayasth,French,Shooting,Football,16,D
+796,86,29:10:2025,Goa,Odia,Chemistry,Shooting,Cooking,17,B
+797,55,03:11:2025,Assam,Sikh,Economics,Cricket,Painting,19,B
+798,54,05:11:2025,Noida,Sikh,Hindi,Shooting,Esports,18,B
+799,71,11:11:2025,Noida,Sikh,Zoology,Reading,MotoRacing,19,A
+800,35,07:11:2025,Kerala,Kayasth,Hindi,Gaming,Football,17,F
+801,74,29:10:2025,Gujrat,Kayasth,English,Sleeping,Cooking,17,B
+802,42,02:11:2025,Kolkata,Maratha,English,Biking,Cooking,18,A
+803,74,02:11:2025,Shillong,Odia,Chemistry,Gaming,Sketching,18,D
+804,35,06:11:2025,Kolkata,Adiwasi,Python,Teaching,Painting,19,B
+805,38,28:10:2025,Kerala,Kashmiri,Physics,Gaming,Cars,18,F
+806,33,13:11:2025,Noida,Adiwasi,Hindi,Sleeping,Watching TV,17,D
+807,38,29:10:2025,Delhi,Kashmiri,Maths,Gaming,Painting,16,B
+808,73,14:11:2025,Bangluru,Kayasth,Python,Cricket,Watching TV,18,B
+809,55,27:10:2025,Kolkata,Maratha,English,Cycling,Sketching,17,D
+810,32,14:11:2025,Gujrat,Sikh,Python,Gaming,Painting,17,F
+811,92,03:11:2025,Kolkata,Sikh,Zoology,Swimming,Esports,18,D
+812,81,28:10:2025,Bangluru,Sikh,Python,Cycling,MotoRacing,16,D
+813,100,11:11:2025,Noida,Kashmiri,Chemistry,Reading,Watching TV,19,B
+814,56,03:11:2025,Delhi,Odia,French,Gaming,MotoRacing,16,A
+815,97,05:11:2025,Kerala,Maratha,Python,Talking,Esports,19,C
+816,32,12:11:2025,Gujrat,Rajput,English,Biking,Watching TV,17,C
+817,46,03:11:2025,Gujrat,Kashmiri,Python,Talking,Music,16,D
+818,97,27:10:2025,Delhi,Kashmiri,Hindi,Talking,Cooking,18,B
+819,88,06:11:2025,Kolkata,Bhramin,Chemistry,Biking,Music,17,B
+820,44,28:10:2025,Noida,Maratha,Python,Shooting,MotoRacing,19,C
+821,66,31:10:2025,Shillong,Kashmiri,Maths,Teaching,Esports,16,A
+822,44,07:11:2025,Assam,Rajput,Physics,Teaching,Cooking,17,A
+823,74,14:11:2025,Delhi,Adiwasi,English,Talking,Music,16,F
+824,72,26:10:2025,Kolkata,Kayasth,English,Reading,Sketching,17,D
+825,86,07:11:2025,Assam,Rajput,Zoology,Swimming,Watching TV,16,B
+826,34,30:10:2025,Goa,Kashmiri,Economics,Cycling,Comedy,17,D
+827,70,28:10:2025,Kolkata,Maratha,Python,Swimming,Cooking,18,C
+828,32,28:10:2025,Assam,Maratha,Maths,Cricket,Painting,17,C
+829,68,02:11:2025,Kolkata,Bhramin,Maths,Cycling,Cooking,17,B
+830,42,07:11:2025,Kerala,Adiwasi,English,Cricket,Football,18,C
+831,45,26:10:2025,Kolkata,Kashmiri,Chemistry,Sleeping,Cars,19,A
+832,59,14:11:2025,Kerala,Sikh,Hindi,Sleeping,MotoRacing,17,D
+833,69,27:10:2025,Kerala,Sikh,Zoology,Swimming,Watching TV,18,A
+834,49,12:11:2025,Goa,Sikh,Physics,Sleeping,Music,17,A
+835,46,30:10:2025,Goa,Kayasth,Python,Teaching,Sketching,17,D
+836,51,30:10:2025,Bangluru,Maratha,French,Biking,Sketching,16,C
+837,83,14:11:2025,Varansi,Adiwasi,Maths,Sleeping,Sketching,17,F
+838,45,02:11:2025,Kerala,Sikh,Hindi,Cycling,Cooking,16,C
+839,88,28:10:2025,Goa,Sikh,English,Reading,Cars,18,F
+840,93,11:11:2025,Delhi,Sikh,English,Reading,Cooking,18,B
+841,40,13:11:2025,Assam,Bhramin,French,Shooting,Painting,16,C
+842,40,14:11:2025,Kolkata,Maratha,English,Biking,Watching TV,18,D
+843,93,30:10:2025,Bangluru,Odia,Chemistry,Teaching,Football,19,D
+844,60,03:11:2025,Bangluru,Maratha,Physics,Teaching,Football,19,B
+845,66,27:10:2025,Noida,Kashmiri,Physics,Teaching,Cooking,16,B
+846,58,26:10:2025,Varansi,Kayasth,French,Reading,Painting,17,B
+847,54,02:11:2025,Bangluru,Kashmiri,English,Talking,Cooking,18,C
+848,68,02:11:2025,Bangluru,Sikh,Chemistry,Cycling,Cars,17,A
+849,92,01:11:2025,Gujrat,Kashmiri,French,Teaching,Esports,19,A
+850,77,26:10:2025,Assam,Maratha,English,Biking,Painting,18,F
+851,61,10:11:2025,Goa,Kayasth,English,Talking,Esports,18,B
+852,40,29:10:2025,Shillong,Maratha,Physics,Gaming,Music,19,B
+853,94,10:11:2025,Assam,Maratha,Social Science,Swimming,Sketching,17,A
+854,78,26:10:2025,Bangluru,Sikh,Economics,Reading,Music,16,D
+855,89,12:11:2025,Bangluru,Rajput,Physics,Shooting,Sketching,16,B
+856,94,12:11:2025,Delhi,Maratha,Hindi,Shooting,Cooking,18,D
+857,45,26:10:2025,Delhi,Kashmiri,French,Cricket,Music,17,A
+858,78,14:11:2025,Kolkata,Kashmiri,Python,Talking,Watching TV,17,F
+859,80,12:11:2025,Kerala,Kashmiri,Social Science,Swimming,Cooking,18,A
+860,71,01:11:2025,Gujrat,Kayasth,Chemistry,Sleeping,MotoRacing,16,F
+861,34,01:11:2025,Goa,Maratha,French,Talking,Esports,16,F
+862,65,30:10:2025,Delhi,Odia,Maths,Biking,Painting,17,D
+863,69,08:11:2025,Assam,Rajput,Zoology,Talking,Football,17,B
+864,56,27:10:2025,Shillong,Maratha,Economics,Cricket,Cooking,16,D
+865,53,03:11:2025,Assam,Kayasth,Hindi,Biking,Football,18,F
+866,68,14:11:2025,Shillong,Adiwasi,Social Science,Cricket,Music,18,D
+867,80,27:10:2025,Goa,Rajput,Social Science,Cycling,MotoRacing,17,C
+868,31,03:11:2025,Gujrat,Bhramin,Chemistry,Cricket,Esports,16,B
+869,91,06:11:2025,Shillong,Bhramin,Python,Teaching,Football,18,A
+870,99,02:11:2025,Shillong,Maratha,Python,Cycling,Sketching,18,A
+871,63,14:11:2025,Kolkata,Rajput,Social Science,Teaching,Music,18,D
+872,84,28:10:2025,Noida,Kayasth,Economics,Reading,Music,18,A
+873,76,10:11:2025,Varansi,Adiwasi,English,Sleeping,Cooking,19,D
+874,68,14:11:2025,Kolkata,Kayasth,English,Teaching,Watching TV,17,A
+875,66,11:11:2025,Kolkata,Bhramin,Social Science,Reading,Esports,18,D
+876,89,06:11:2025,Gujrat,Kayasth,Physics,Talking,Music,17,F
+877,35,07:11:2025,Gujrat,Sikh,Chemistry,Cricket,Football,16,C
+878,68,03:11:2025,Delhi,Sikh,English,Cricket,Sketching,19,A
+879,100,27:10:2025,Bangluru,Bhramin,Python,Sleeping,MotoRacing,16,D
+880,77,08:11:2025,Delhi,Sikh,English,Shooting,MotoRacing,19,D
+881,46,04:11:2025,Shillong,Kashmiri,Economics,Biking,Cooking,19,F
+882,34,06:11:2025,Kolkata,Sikh,Chemistry,Cricket,Painting,16,C
+883,86,07:11:2025,Kerala,Maratha,Maths,Sleeping,MotoRacing,18,A
+884,71,13:11:2025,Assam,Maratha,Maths,Reading,MotoRacing,16,D
+885,93,12:11:2025,Kerala,Kayasth,Maths,Gaming,Sketching,16,B
+886,35,07:11:2025,Shillong,Odia,Physics,Cycling,Cooking,18,D
+887,76,06:11:2025,Noida,Maratha,English,Shooting,Comedy,16,B
+888,89,06:11:2025,Noida,Rajput,Python,Sleeping,Cars,19,B
+889,76,03:11:2025,Kerala,Maratha,Physics,Teaching,Music,18,F
+890,68,06:11:2025,Kolkata,Bhramin,Economics,Reading,Comedy,16,D
+891,47,01:11:2025,Assam,Rajput,Social Science,Teaching,Comedy,18,A
+892,34,31:10:2025,Assam,Odia,Maths,Cricket,Cars,17,C
+893,97,08:11:2025,Kolkata,Bhramin,Python,Cricket,Music,18,A
+894,50,06:11:2025,Assam,Sikh,Physics,Cycling,Cooking,19,F
+895,37,26:10:2025,Goa,Adiwasi,Chemistry,Gaming,Esports,18,F
+896,56,31:10:2025,Varansi,Bhramin,Maths,Teaching,Watching TV,18,C
+897,39,11:11:2025,Varansi,Rajput,Chemistry,Swimming,Cars,17,D
+898,66,28:10:2025,Noida,Bhramin,Zoology,Sleeping,Football,19,A
+899,91,06:11:2025,Kerala,Maratha,Hindi,Gaming,Cars,17,D
+900,93,10:11:2025,Shillong,Adiwasi,Maths,Biking,MotoRacing,17,D
+901,54,13:11:2025,Assam,Maratha,Zoology,Teaching,Watching TV,16,B
+902,36,10:11:2025,Kerala,Maratha,Maths,Teaching,Football,19,A
+903,41,10:11:2025,Bangluru,Rajput,French,Gaming,Music,18,A
+904,72,29:10:2025,Noida,Kashmiri,English,Gaming,Comedy,17,F
+905,86,11:11:2025,Assam,Adiwasi,Economics,Gaming,Cooking,19,B
+906,94,10:11:2025,Delhi,Rajput,French,Biking,MotoRacing,17,C
+907,33,07:11:2025,Shillong,Kayasth,Social Science,Talking,Watching TV,19,B
+908,81,01:11:2025,Varansi,Kayasth,Chemistry,Gaming,Watching TV,19,A
+909,36,12:11:2025,Noida,Sikh,Hindi,Cricket,Cooking,16,A
+910,71,29:10:2025,Assam,Odia,Physics,Reading,Football,18,B
+911,67,31:10:2025,Goa,Kashmiri,Social Science,Talking,Cooking,19,B
+912,39,02:11:2025,Gujrat,Kashmiri,Hindi,Cricket,Cars,19,F
+913,55,10:11:2025,Delhi,Maratha,Python,Sleeping,Watching TV,19,F
+914,74,06:11:2025,Kolkata,Bhramin,Hindi,Reading,Cooking,17,D
+915,96,03:11:2025,Goa,Rajput,Economics,Teaching,Comedy,19,A
+916,78,03:11:2025,Bangluru,Sikh,English,Biking,Esports,18,C
+917,49,04:11:2025,Goa,Kayasth,English,Talking,Esports,18,B
+918,53,28:10:2025,Noida,Kayasth,Chemistry,Shooting,Esports,19,A
+919,65,12:11:2025,Bangluru,Sikh,Economics,Talking,Comedy,18,C
+920,96,08:11:2025,Kerala,Adiwasi,Physics,Shooting,Watching TV,16,D
+921,32,12:11:2025,Varansi,Sikh,English,Sleeping,Sketching,18,F
+922,45,05:11:2025,Shillong,Maratha,Maths,Sleeping,Cars,16,F
+923,35,05:11:2025,Varansi,Adiwasi,Hindi,Gaming,Painting,17,B
+924,44,12:11:2025,Noida,Bhramin,Python,Talking,Football,17,A
+925,61,29:10:2025,Assam,Kashmiri,Social Science,Cricket,Cars,19,C
+926,48,11:11:2025,Assam,Sikh,Zoology,Shooting,MotoRacing,16,F
+927,46,31:10:2025,Noida,Rajput,Economics,Swimming,MotoRacing,17,A
+928,59,03:11:2025,Shillong,Odia,Hindi,Gaming,Watching TV,19,B
+929,57,09:11:2025,Noida,Sikh,Hindi,Swimming,Comedy,16,D
+930,73,01:11:2025,Assam,Maratha,Python,Swimming,Cooking,17,F
+931,74,02:11:2025,Delhi,Bhramin,Maths,Sleeping,Esports,18,C
+932,54,05:11:2025,Goa,Maratha,Hindi,Teaching,Watching TV,16,B
+933,84,11:11:2025,Goa,Sikh,Chemistry,Reading,Cooking,17,A
+934,83,05:11:2025,Delhi,Adiwasi,Chemistry,Talking,MotoRacing,16,C
+935,85,30:10:2025,Bangluru,Maratha,Maths,Cricket,Cars,19,A
+936,60,08:11:2025,Varansi,Adiwasi,English,Teaching,Comedy,18,F
+937,99,13:11:2025,Shillong,Odia,Chemistry,Sleeping,MotoRacing,17,D
+938,40,28:10:2025,Varansi,Sikh,Social Science,Shooting,Watching TV,19,B
+939,91,12:11:2025,Bangluru,Rajput,Hindi,Cricket,Football,19,C
+940,64,14:11:2025,Assam,Kashmiri,Economics,Biking,Watching TV,16,F
+941,71,08:11:2025,Assam,Maratha,Hindi,Cycling,MotoRacing,17,F
+942,67,14:11:2025,Bangluru,Bhramin,Maths,Swimming,Painting,18,A
+943,48,10:11:2025,Gujrat,Kashmiri,English,Cricket,Painting,17,C
+944,36,27:10:2025,Noida,Kashmiri,Social Science,Shooting,Painting,17,B
+945,40,28:10:2025,Kerala,Sikh,Chemistry,Cycling,Comedy,18,B
+946,62,28:10:2025,Varansi,Maratha,Physics,Teaching,Comedy,17,D
+947,63,05:11:2025,Kolkata,Bhramin,Social Science,Swimming,Cooking,19,A
+948,34,10:11:2025,Delhi,Kashmiri,Physics,Teaching,Football,18,D
+949,55,01:11:2025,Kerala,Adiwasi,Economics,Gaming,Cooking,19,F
+950,57,08:11:2025,Delhi,Sikh,Chemistry,Talking,Painting,19,F
+951,33,01:11:2025,Assam,Bhramin,Maths,Talking,Sketching,19,A
+952,81,03:11:2025,Kolkata,Odia,Social Science,Cycling,Painting,16,B
+953,91,27:10:2025,Varansi,Rajput,Economics,Sleeping,Cars,18,D
+954,38,31:10:2025,Varansi,Rajput,Physics,Sleeping,Football,19,F
+955,48,13:11:2025,Goa,Sikh,Economics,Cycling,Cars,18,C
+956,92,07:11:2025,Bangluru,Rajput,Social Science,Reading,Esports,19,D
+957,68,07:11:2025,Noida,Kashmiri,Zoology,Gaming,Watching TV,18,D
+958,61,30:10:2025,Gujrat,Maratha,French,Shooting,Cars,16,C
+959,64,26:10:2025,Shillong,Maratha,Zoology,Cricket,Painting,17,F
+960,50,01:11:2025,Gujrat,Sikh,Economics,Biking,Cars,18,A
+961,44,13:11:2025,Assam,Odia,Economics,Teaching,Esports,19,A
+962,73,05:11:2025,Noida,Rajput,French,Gaming,Watching TV,16,D
+963,46,13:11:2025,Goa,Odia,Zoology,Talking,Comedy,16,C
+964,40,12:11:2025,Kerala,Kashmiri,Social Science,Shooting,Cooking,18,F
+965,41,04:11:2025,Bangluru,Odia,Maths,Biking,Music,16,B
+966,53,28:10:2025,Shillong,Adiwasi,Chemistry,Shooting,Watching TV,16,F
+967,44,01:11:2025,Assam,Rajput,Maths,Teaching,Painting,18,F
+968,71,07:11:2025,Varansi,Sikh,Maths,Cycling,Football,19,A
+969,88,13:11:2025,Bangluru,Kayasth,Zoology,Shooting,Esports,17,F
+970,39,04:11:2025,Noida,Odia,Chemistry,Cricket,Watching TV,18,A
+971,86,30:10:2025,Kerala,Bhramin,Python,Swimming,Sketching,17,B
+972,98,13:11:2025,Goa,Rajput,Chemistry,Shooting,Painting,19,D
+973,93,28:10:2025,Noida,Sikh,Python,Cricket,Cooking,17,B
+974,63,08:11:2025,Kerala,Odia,Chemistry,Cricket,Painting,17,D
+975,86,27:10:2025,Goa,Bhramin,Physics,Swimming,Music,19,A
+976,33,06:11:2025,Noida,Sikh,Physics,Cycling,Music,18,B
+977,42,05:11:2025,Varansi,Sikh,French,Shooting,MotoRacing,17,C
+978,77,13:11:2025,Kolkata,Rajput,Chemistry,Swimming,Cooking,18,B
+979,49,05:11:2025,Kerala,Kashmiri,English,Reading,Comedy,16,C
+980,33,10:11:2025,Shillong,Odia,Python,Reading,Watching TV,19,D
+981,80,10:11:2025,Delhi,Bhramin,Maths,Cricket,Painting,18,B
+982,82,02:11:2025,Bangluru,Rajput,Python,Cricket,Watching TV,17,B
+983,85,09:11:2025,Noida,Rajput,Python,Reading,Painting,19,A
+984,45,13:11:2025,Varansi,Kashmiri,Economics,Shooting,Cooking,18,F
+985,60,27:10:2025,Assam,Kashmiri,Economics,Cricket,Watching TV,16,C
+986,99,26:10:2025,Delhi,Sikh,English,Cycling,Sketching,19,A
+987,50,04:11:2025,Kolkata,Bhramin,Chemistry,Gaming,Painting,18,A
+988,61,10:11:2025,Kolkata,Odia,French,Reading,MotoRacing,17,B
+989,58,05:11:2025,Kolkata,Adiwasi,Maths,Shooting,Comedy,16,B
+990,96,04:11:2025,Varansi,Sikh,Zoology,Talking,Sketching,16,B
+991,56,02:11:2025,Varansi,Sikh,English,Reading,Music,16,F
+992,45,31:10:2025,Delhi,Rajput,Hindi,Cycling,Comedy,17,C
+993,76,08:11:2025,Assam,Adiwasi,French,Reading,Esports,18,B
+994,55,05:11:2025,Kolkata,Rajput,English,Cricket,Watching TV,16,B
+995,38,11:11:2025,Gujrat,Rajput,Physics,Cricket,Sketching,19,A
+996,56,03:11:2025,Assam,Odia,Maths,Biking,Esports,18,B
+997,85,06:11:2025,Shillong,Adiwasi,Economics,Cycling,Cars,16,C
+998,69,12:11:2025,Delhi,Adiwasi,Hindi,Talking,Sketching,18,A
+999,42,02:11:2025,Varansi,Sikh,Physics,Teaching,Football,17,C
+1000,74,26:10:2025,Assam,Rajput,Chemistry,Talking,Sketching,18,F
